@@ -7,3 +7,5 @@
 4. Lewis Allen Huang
 5. Daniele Justyn Felico
 6. Justin Marguel Johannes
+
+### Copyright Ⓒ Kevin Wilbert Johan 
